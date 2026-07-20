@@ -6,7 +6,7 @@ This project is a Streamlit app for predicting breast cancer diagnosis using mac
 
 - `app.py` - Streamlit application for entering biopsy measurement values and predicting whether a tumor is benign or malignant.
 - `Breast Cancer Wisconsin.csv` - Dataset used for training and analysis.
-- `Project Classification of Breast Cancer Diagnosis.ipynb` - Jupyter notebook with exploration, model training, and evaluation.
+- `Classification.ipynb` - Jupyter notebook with exploration, model training, and evaluation.
 - `Projet Machine Learning.pdf` - Project report.
 - `logistic_model.pkl` - Saved logistic regression model.
 - `knn_model.pkl` - Saved KNN model.
