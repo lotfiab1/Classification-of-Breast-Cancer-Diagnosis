@@ -7,9 +7,9 @@ print("Chemin actuel :", os.getcwd())
 
 # Charger les modèles
 models = {
-    "Régression Logistique": joblib.load("logistic_model.pkl"),
-    "KNN": joblib.load("knn_model.pkl"),
-    "Arbre de Décision": joblib.load("decision_tree_model.pkl")
+    "Régression Logistique": joblib.load("models/logistic_model.pkl"),
+    "KNN": joblib.load("models/knn_model.pkl"),
+    "Arbre de Décision": joblib.load("models/decision_tree_model.pkl")
 }
 
 # Liste des caractéristiques (sans la cible)
